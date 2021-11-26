@@ -164,12 +164,12 @@ function App() {
         <br />
         <Center>
           <Heading as="h2" size="3xl" p={10}>
-            Avalanche Wallet Tracker
+            Mi Wallet
           </Heading>
         </Center>
         <Center>
           <Button colorScheme="green" size="lg" onClick={() => authenticate()}>
-            Sign in using Metamask
+            Inicia sesión con Metamask
           </Button>
         </Center>
       </Container>
